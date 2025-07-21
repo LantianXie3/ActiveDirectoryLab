@@ -61,7 +61,7 @@ Launch "Active Directory Users and Computers" to confirm that the domain is set 
 
 <p align="center">
 <b>6. PowerShell Script to Create Users</b><br />
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/179877996/468487486-88049cab-3f8d-4db5-adab-100f2a48f886.png" width="80%" alt="PowerShell Script Screenshot" />
+<img src="https://ibb.co/v4wSBv0R" width="80%" alt="PowerShell Script Screenshot" />
 <br />
 <b>Description:</b> This screenshot shows a PowerShell script used to create multiple users in Active Directory from a CSV file. The script loops through each row in the CSV and uses `New-ADUser` to generate the user accounts automatically. This simulates a real-world IT task like onboarding new employees and helps automate repetitive administrative processes.
 </p>
