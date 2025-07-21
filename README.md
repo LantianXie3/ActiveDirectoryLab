@@ -1,6 +1,7 @@
 <h1>🏠 Active Directory Home Lab Setup (VirtualBox + PowerShell)</h1>
 
 
+<img width="100%" height="10%" alt="image" src="https://github.com/user-attachments/assets/fbae5887-3081-463e-a451-66578cdb117e" />
 
 <h2>📝 Description</h2>
 
@@ -61,14 +62,8 @@ Launch "Active Directory Users and Computers" to confirm that the domain is set 
 
 <p align="center">
 <b>6. PowerShell Script to Create Users</b><br />
-<img src="https://ibb.co/v4wSBv0R" width="80%" alt="PowerShell Script Screenshot" />
-<br />
-<b>Description:</b> This screenshot shows a PowerShell script used to create multiple users in Active Directory from a CSV file. The script loops through each row in the CSV and uses `New-ADUser` to generate the user accounts automatically. This simulates a real-world IT task like onboarding new employees and helps automate repetitive administrative processes.
+<img src="https://i.imgur.com/uKZFWgV.png" width="80%" alt="Users Created"><br />
+This screenshot shows a PowerShell script used to create multiple users in Active Directory from a CSV file. The script loops through each row in the CSV and uses `New-ADUser` to generate the user accounts automatically. This simulates a real-world IT task like onboarding new employees and helps automate repetitive administrative processes.
 </p>
 
 
-<p align="center">
-<b>7. Created Users in ADUC</b><br />
-<img src="https://your-image-link.com/users-created.png" width="80%" alt="Users Created"><br />
-After running the script, refresh the ADUC interface. You’ll see the user accounts populated in the chosen OU (Organizational Unit).
-</p>
