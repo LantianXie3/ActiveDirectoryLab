@@ -92,7 +92,7 @@ Doing so has established a secure yet flexible network topology indispensable fo
 ## Set Up DHCP Server
 
 - In Server Manager, I added the "DHCP Server" role to enable our client machine to automatically receive an IP address through dynamic allocation.
-- 
+  
 ## Structuring the Organizational Unit
 
 - Open Active Directory Users and Computers.
